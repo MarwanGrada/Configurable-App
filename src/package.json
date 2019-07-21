@@ -1,0 +1,14 @@
+{
+  "title": "Configurable App",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "Simple app that changes the UI",
+  "dependencies": {
+    "@material-ui/core": "3.9.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "toggle-theme-dark-light"
+}
